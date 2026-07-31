@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>هدية إلى رغد ❤️</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="stars"></div>
+
+<div class="container">
+
+<h1>💖 إلى حبيبتي رغد 💖</h1>
+
+<p class="subtitle">
+لدي هدية صغيرة لك...
+</p>
+
+<div id="game">
+
+<div class="box" data-step="1">
+🎁
+<p>افتحي الصندوق الأول</p>
+</div>
+
+<div class="box hidden" data-step="2">
+🎁
+<p>ثم هذا الصندوق</p>
+</div>
+
+<div class="box hidden" data-step="3">
+🎁
+<p>واحد أصغر...</p>
+</div>
+
+<div class="box hidden" data-step="4">
+🎁
+<p>باقي الأخير ❤️</p>
+</div>
+
+<div id="finalMessage" class="hidden">
+
+<h2>❤️ أحبك يا رغد ❤️</h2>
+
+<p>
+
+كل سنة وأنتِ أجمل من السنة التي قبلها.
+
+كل سنة ويكبر حبك في قلبي أكثر.
+
+وجودك هو أجمل هدية منحني الله إياها.
+
+أتمنى أن تبقي معي طوال العمر.
+
+عيد ميلاد سعيد يا أجمل إنسانة عرفها قلبي.
+
+❤️❤️❤️
+
+</p>
+
+<a
+class="musicBtn"
+target="_blank"
+href="#">
+
+🎵 تشغيل أغنية
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
